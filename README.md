@@ -1,2 +1,2 @@
-# dylansouza-ds.github.io
-My Artist Portfolio
+# My Portfolio
+My Artist Portfolio go here: dylansouza-ds.github.io/
